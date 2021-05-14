@@ -1,0 +1,7 @@
+Observations:
+
+In the Northern Hemisphere, as the city gets farther away from latititude 0, temperature is colder. This is somewhat true, given that the r-quare is -0.68. The opposite happens in the southern hemisphere with the same level of significance, but towards opposite direction. As the city gets closer to latitude 0, temperature gets warmer.
+
+There is little to none relationship between latitude and humidity. This is likely because elevation plays a role into humidity, as well as other weather factors.
+
+Similar to latitude and humidity, cloudiness has little correlation with latitude. Nonetheless, based on the sample plot, there seems to be more cloudiness percentages concentrated within every 20%
